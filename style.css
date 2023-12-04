@@ -1,3 +1,15 @@
 h1 {
-  color: brown;
+  color: #96d8f0;
+  text-align: center;
+  transition: all 200ms ease;
+}
+h1:hover {
+  cursor: pointer;
+  opacity: 1;
+  color: black;
+}
+
+img {
+  display: block;
+  margin: auto;
 }
